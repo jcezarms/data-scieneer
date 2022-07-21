@@ -1,9 +1,8 @@
 <p align="center">
-    <img style="cursor: default;" src="./assets/logo.svg" height="200px" alt="Data Scieneer's Confusing Logo" />
-</p>
-<p style="font-size:smaller;">
-Parece um OVNI gigante abduzindo várias naves alienígenas pequenas?<br />
-Então claramente representa o projeto.
+    <img style="cursor: default;" src="./assets/logo.svg" height="200px" alt="Data Scieneer's Confusing Logo" /><br />
+    <sup>
+    Parece um OVNI gigante abduzindo várias naves alienígenas pequenas? Então claramente representa o projeto.
+    </sup>
 </p>
 
 
